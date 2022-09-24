@@ -1,5 +1,5 @@
 The black hole imaging codes are developed by us: Tsaichen Lee, Jiaming Lu and Yuchen Wang
-as our C161 project.
+as our C161 project in 2022 Spring.
 
 Compiled with python 3.9
 
